@@ -1,0 +1,51 @@
+.card {
+    width: 365px;
+    border-radius: 25px;
+    background-color: #fff;
+    /* justify-content: center;
+    align-items: center; */
+    padding: 25px;
+    margin-right: 10px;
+}
+
+img {
+    /* background-image: url(../assets/orang.png); */
+    border-radius: 50%;
+}
+
+.judul {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #00B6DF;
+}
+
+.nama {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 24px;
+    color: #494949;
+    padding: 10px;
+}
+
+.diskripsi {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #494949;
+    padding: 20px;
+}
+
+.button {
+    width: 123px;
+    height: 35px;
+    left: 502px;
+    top: 499px;
+    background: #00D0FF;
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+    color: #fff;
+}
